@@ -1,5 +1,5 @@
 # Java-CheckDigit
-Training Java "CheckDigit"
+Training Java "CheckDigit" Mainにすべて書いてしまっている悪い例かと。
 ## 1.	入力数字有効性チェック					
 						
 ### 1.1	何も入力されない場合、下記メッセージを表示し、処理終了。				
